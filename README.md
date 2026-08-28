@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Siddhi Naktode 👋
 
-<!--
-**siddhi10906/siddhi10906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Engineering Student | VIT Pune | AI/ML & Cloud Computing Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🎓 Third-Year Computer Engineering student at Vishwakarma Institute of Technology, Pune.
+- 💻 Interested in AI/ML, Cloud Computing, and Software Development.
+- 🌱 Currently working on Smart City AI and Explainable Machine Learning projects.
+- 🚀 Looking for Software Engineering and AI/ML internship opportunities.
+
+## 🛠️ Tech Stack
+
+- Programming: C, Java, Python, SQL, JavaScript
+- AI/ML: Scikit-learn, Pandas, NumPy, OpenCV
+- Database: MySQL
+- Cloud: Google Cloud Platform (GCP)
+- Tools: Git, GitHub, Power BI, VS Code
+
+## 🚀 Featured Projects
+
+### 🔹 CognitiveGuard AI – Scam & Phishing Detection System
+AI-powered phishing detection system using Machine Learning, TF-IDF, OCR, and Flask.
+
+### 🔹 Traffic Congestion Prediction using Lightweight Urban Digital Twin
+Smart city traffic prediction using XGBoost and Digital Twin simulation.
+
+### 🔹 Job Recruitment & Analytics System
+Web-based recruitment platform developed using Java, Flask, and MySQL.
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/siddhi-naktode-421419343
+- Email: siddhi.naktode24@vit.edu
