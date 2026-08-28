@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 - AI/ML: Scikit-learn, Pandas, NumPy, OpenCV
 - Database: MySQL
 - Cloud: Google Cloud Platform (GCP)
-- Tools: Git, GitHub, Power BI, VS Code
+- Tools: Git, GitHub, Power BI
 
 ## Featured Projects
 
