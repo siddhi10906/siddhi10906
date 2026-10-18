@@ -1,6 +1,6 @@
 # Hi, I'm Siddhi Naktode 
 
-### Computer Engineering Student | VIT Pune | AI/ML & Cloud Computing Enthusiast
+### Computer Engineering Student | VIT Pune | AI/ML & Full Stack Enthusiast
 
 Welcome to my GitHub profile!
 
